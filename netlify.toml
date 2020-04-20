@@ -1,5 +1,5 @@
 [build]
-  functions = "functions/main.php"
+  functions = "functions"
   publish = "site"
 [build.environment]
   PHP_VERSION = "7.4"
