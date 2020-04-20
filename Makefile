@@ -1,3 +1,4 @@
 build:
-	composer require aws/aws-sdk-php
-	php -S 0.0.0.0:8080
+	mkdir -p functions
+	go get ./...
+	go build -o functions/hello ./...
