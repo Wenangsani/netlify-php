@@ -9,5 +9,5 @@ $s3 = new S3Client([
     'region'  => 'us-west-2'
 ]);
 
-print_r($s3);
+echo "Ini berhasil kan?";
 ?>
