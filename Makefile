@@ -1,3 +1,3 @@
 build:
 	composer require aws/aws-sdk-php
-	php functions/index.php
+	php -S 0.0.0.0:8080
