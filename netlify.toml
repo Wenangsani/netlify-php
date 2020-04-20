@@ -5,4 +5,4 @@
 [build.environment]
   # Change this path with the path to your repository
   GO_IMPORT_PATH = "github.com/netlify/aws-lambda-go-example"
-  PHP_VERSION = "7.4"
+  PHP_VERSION = "5.6"
